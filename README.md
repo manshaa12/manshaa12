@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C,C++
-- - 👯 I want to learn AI&ML, CYBER SECURITY
+- 🌱 I’m currently learning AI&Ml,DATA SCIENCE
 - - 📫 How to reach me: manshapatra12@gmail.com
 
 
@@ -9,8 +8,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning C,C++
-- 👯 I want to learn AI&ML, CYBER SECURITY
 
 - 💬 Ask me about ...
 
